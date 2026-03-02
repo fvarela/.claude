@@ -16,4 +16,6 @@ shell-snapshots/
 stats-cache.json
 statsig/
 telemetry/
+todos/paste-cache/
 todos/
+paste-cache/

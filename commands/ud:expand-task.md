@@ -1,7 +1,10 @@
 # Expand Task
 
-Break down a Task Master task into detailed subtasks.
+Break down a Taskmaster task into detailed subtasks.
 
-Run: `task-master expand-task --id=$ARGUMENTS`
+Use the `expand-task` skill to read the task and generate subtasks directly into `.taskmaster/tasks/tasks.json`.
 
-If $ARGUMENTS is empty, ask the user which task ID to expand.
+Do NOT use the Taskmaster MCP `expand_task` tool or `task-master expand` CLI command.
+Instead, follow the instructions in the `expand-task` skill.
+
+If $ARGUMENTS contains a task ID, pass it to the skill. Otherwise, the skill will ask.
