@@ -59,6 +59,7 @@ From PROJECT.md, read and use:
 - **Overview** — to understand the project's purpose and frame the PRD
 - **Architecture** — to reference components, infrastructure, and how things connect
 - **Modules** — to identify which modules are involved in this phase and their tech stack
+- **Pending Fixes** — check for unchecked items that are relevant to this phase. Include them in the PRD requirements. Mention to the user which pending fixes will be folded in.
 - **Design Principles** — to ensure the PRD aligns with project principles
 - **Decisions** — to reference relevant past decisions
 

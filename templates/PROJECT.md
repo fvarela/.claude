@@ -54,6 +54,20 @@
      - [ ] Phase 5: Monitoring and alerting
 -->
 
+## Pending Fixes
+
+<!-- Small tasks, bugs, and housekeeping items that don't fit in a development phase.
+     Add items as you notice them. When starting a new phase, review this list and
+     fold relevant items into that phase's PRD, or handle them as quick standalone tasks.
+     Check off items when done.
+
+     Example:
+     - [ ] Fix typo in API error message for /health endpoint
+     - [ ] Update module status in this file to reflect current state
+     - [ ] Delete outdated docs/OLD_API.md
+     - [x] Add missing index on users.email column
+-->
+
 ## Design Principles
 
 <!-- Architectural and coding principles for this project.
