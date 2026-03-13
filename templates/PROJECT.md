@@ -11,6 +11,30 @@
 ### The Solution
 <!-- High-level approach. How does this project solve the problem? -->
 
+## Ongoing Topics
+
+<!-- Active discussion threads from planning sessions.
+     The planner agent maintains this list:
+
+     HOW IT WORKS:
+     - When entering planner mode, CHECK THIS SECTION FIRST for open threads
+     - During conversation, EXTRACT new topics as they emerge and add them here
+     - Each topic gets a short title and a summary of the current thinking
+     - When a conversation touches multiple topics, make sure ALL of them are
+       captured here — don't let topics get lost in the flow
+     - Once a topic is resolved, move conclusions to the appropriate section
+       (Decisions, Design Principles, Architecture, etc.) and remove it from here
+
+     FORMAT:
+     - [ ] **Topic Title** — Current state of thinking / open questions
+     - [x] ~~**Resolved Topic**~~ — Moved to [Section Name]
+
+     EXAMPLE:
+     - [ ] **Query routing strategy** — Deciding between ML-based vs rule-based. Leaning toward hybrid: hard rules first, ML fallback. Open: what exactly are the "hard rules"?
+     - [ ] **Collection persistence model** — Collections are groups of queries in DB. Frontend edits are temporary until explicit save. Open: optimistic vs pessimistic save UX?
+     - [x] ~~**Auth approach**~~ — Decided on Azure AD SSO. See Decisions section.
+-->
+
 ## Architecture
 
 ### Components

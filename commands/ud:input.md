@@ -1,3 +1,3 @@
 # Process Input
 
-Read `.claude/docs/input.md` and process its contents.
+Read `.claude/docs/INPUT.md` and process its contents.
